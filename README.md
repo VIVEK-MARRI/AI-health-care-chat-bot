@@ -1,4 +1,4 @@
-# Healthcare Assistant Chatbot 🤖
+# Healthcare Assistant Chatbot 
 
 A Streamlit-based AI chatbot designed to provide preliminary medical information, symptom analysis, and appointment scheduling assistance. *Note:* This is not a substitute for professional medical care.
 
